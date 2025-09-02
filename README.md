@@ -18,7 +18,7 @@ A Patreon-like project built using **Next.js**, **Tailwind CSS**, and **MongoDB 
 - **Authentication**: NextAuth.js
 - **Payment Gateway**: Razorpay
 
-## Made by RishabN
+## Made by Tushar
 
 ## Deployed on Vercel
 
